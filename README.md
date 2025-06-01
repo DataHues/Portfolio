@@ -11,5 +11,5 @@
 2. **Customer Segmentation**  
    - Repo:  
    - Description: Applied K-means clustering to a fictional customer purchasing dataset in order to identify three distinct segments and develop targeted marketing strategies.  
-   - Notebook: [Customer Segmentation Analysis](https://github.com/DataHues/Customer-Segmentation-Report/tree/main/Notebook)
+   - Notebook: [Customer Purchasing Behavior Kernel](https://github.com/DataHues/Customer-Segmentation-Report/blob/main/Notebook/Customer_Purchasing_Behavior.ipynb)
    - Report: 
