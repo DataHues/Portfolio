@@ -7,9 +7,3 @@
    - Description: This repository contains a Playwright-based Python script that navigates every alphabetical range (A–Z) of the Blue Cross Blue Shield Prefix List website, handles pagination, and exports a consolidated CSV of all prefix to insurer name mappings. 
    - Code:  
    - Report: 
-
-2. **Customer Segmentation**  
-   - Repo:  
-   - Description: Applied K-means clustering to a fictional customer purchasing dataset in order to identify three distinct segments and develop targeted marketing strategies.  
-   - Notebook: [Customer Purchasing Behavior Kernel](https://github.com/DataHues/Customer-Segmentation-Report/blob/main/Notebook/Customer_Purchasing_Behavior.ipynb)
-   - Report: 
