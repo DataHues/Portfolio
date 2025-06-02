@@ -6,4 +6,3 @@
    - Repo:  
    - Description: This repository contains a Playwright-based Python script that navigates every alphabetical range (A–Z) of the Blue Cross Blue Shield Prefix List website, handles pagination, and exports a consolidated CSV of all prefix to insurer name mappings. 
    - Code:  
-   - Report: 
